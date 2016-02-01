@@ -21,4 +21,4 @@ converts `.slim` files in `templates/` to `.html` files in `public`.
 
 Try restarting guard - this will usually get it to pick up new files it isn't watching.
 
-If that does work, check the extension names of your files. Guard will only watch files that end with `.scss` and `.slim`.
+If that doesn't work, check the extension names of your files. Guard will only watch files that end with `.scss` and `.slim`.
